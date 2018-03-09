@@ -1,0 +1,20 @@
+{
+  "name": "ora-promise",
+  "main": "index",
+  "description": "Use ora to monitor your promises execution time",
+  "version": "1.0.0",
+  "author": "Julien Bouquillon <julien@revolunet.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/revolunet/ora-promise.git"
+  },
+  "homepage": "https://revolunet.github.io/ora-promise/",
+  "bugs": {
+    "url": "https://github.com/revolunet/ora-promise/issues"
+  },
+  "dependencies": {
+    "humanize-duration": "^3.12.1",
+    "ora": "^2.0.0"
+  }
+}
